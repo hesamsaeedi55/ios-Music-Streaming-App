@@ -1,0 +1,6 @@
+framework module Pods_Javan_Records {
+  umbrella header "Pods-Javan Records-umbrella.h"
+
+  export *
+  module * { export * }
+}

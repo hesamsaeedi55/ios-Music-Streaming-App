@@ -4,3 +4,9 @@ A music social network (real-time) app for streaming musics and sharing musical 
 # Creating-a-Playlist
 
 ![creating playlist copy](https://user-images.githubusercontent.com/118046088/206812137-14f99b85-6495-41bf-9d52-574094f66218.jpg)
+
+
+
+
+https://user-images.githubusercontent.com/118046088/206813678-b28cd38d-6e11-4f31-a6e7-e49a940e2298.mp4
+

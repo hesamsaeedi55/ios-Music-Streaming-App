@@ -7,6 +7,7 @@ A music social network (real-time) app for streaming musics and sharing musical 
 
 ![creating playlist copy](https://user-images.githubusercontent.com/118046088/206812137-14f99b85-6495-41bf-9d52-574094f66218.jpg)
 
+<img width="1403" alt="Screen Shot 1401-09-22 at 00 31 51" src="https://user-images.githubusercontent.com/118046088/207154017-f6a72e73-4bfe-4650-8f18-7d777a04bfd4.png">
 
 
 https://user-images.githubusercontent.com/118046088/207150817-997732aa-22d0-4adf-9d01-6bfa4d9cdb40.mov

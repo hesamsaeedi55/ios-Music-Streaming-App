@@ -10,3 +10,20 @@ A music social network (real-time) app for streaming musics and sharing musical 
 
 https://user-images.githubusercontent.com/118046088/206813678-b28cd38d-6e11-4f31-a6e7-e49a940e2298.mp4
 
+
+
+
+https://user-images.githubusercontent.com/118046088/207150817-997732aa-22d0-4adf-9d01-6bfa4d9cdb40.mov
+
+
+
+
+
+https://user-images.githubusercontent.com/118046088/207150946-1dd13d7e-72aa-4e8c-bdfd-9c8aa131c8a5.mov
+
+
+
+
+
+https://user-images.githubusercontent.com/118046088/207151652-2dc1aad8-e23d-466d-95c4-c5a85af55eb6.mov
+

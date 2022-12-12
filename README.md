@@ -25,3 +25,5 @@ https://user-images.githubusercontent.com/118046088/207151652-2dc1aad8-e23d-466d
 
 https://user-images.githubusercontent.com/118046088/207152310-417fcab8-ea6b-4393-b2f2-0b319a802ddd.mp4
 
+
+[Class Diagram 2.pdf](https://github.com/hesamsaeedi55/ios-Music-Streaming-App/files/10211963/Class.Diagram.2.pdf)

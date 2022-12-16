@@ -1,6 +1,22 @@
 # ios-Music-Streaming-App
 A music social network (real-time) app for streaming musics and sharing musical taste among users. A platform that gives users information about artists, and users can listen to the music of the artists included in the application either for free or purchasing a subscription or purchasing an album or music tracks and also creating playlists.
 
+# SOME EXAMPLES OF FEATURES
+
+- Follow Artists and Browse In App
+- Download Musics and Save 
+- Search Among Artists, Songs and Albums
+- Login 
+- Creating Playlist In App
+
+
+# DOCUMENTATION
+
+- Class Diagram (In App & Database)
+- Real-time Database (Firebase)
+- Layered Architecture
+- Example Of Sequence Diagram
+
 # Follow Artists and Browse In App
 
 https://user-images.githubusercontent.com/118046088/207150817-997732aa-22d0-4adf-9d01-6bfa4d9cdb40.mov

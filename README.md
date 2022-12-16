@@ -11,6 +11,7 @@ https://user-images.githubusercontent.com/118046088/207150817-997732aa-22d0-4adf
 
 All Documents of Sequence Diagram ZIP file 
 
+
 [Sequence Diagrams.zip](https://github.com/hesamsaeedi55/ios-Music-Streaming-App/files/10211984/Sequence.Diagrams.zip)
 
 # Download Musics and Save 
@@ -39,4 +40,5 @@ https://user-images.githubusercontent.com/118046088/207152310-417fcab8-ea6b-4393
 
 
 <img width="1403" alt="Screen Shot 1401-09-22 at 00 31 51" src="https://user-images.githubusercontent.com/118046088/207154017-f6a72e73-4bfe-4650-8f18-7d777a04bfd4.png">
+
 

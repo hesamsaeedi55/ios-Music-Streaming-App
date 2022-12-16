@@ -19,15 +19,17 @@ https://user-images.githubusercontent.com/118046088/207152310-417fcab8-ea6b-4393
 
 # Creating Playlist In App
 
+![creating playlist copy](https://user-images.githubusercontent.com/118046088/206812137-14f99b85-6495-41bf-9d52-574094f66218.jpg)
+
 # Class Diagram (In App & Database)
 
 <img width="774" alt="Screen Shot 1401-09-22 at 00 26 47" src="https://user-images.githubusercontent.com/118046088/207152946-b0f350a9-52b2-4e33-b61b-7cfde695b5b1.png">
 
-![creating playlist copy](https://user-images.githubusercontent.com/118046088/206812137-14f99b85-6495-41bf-9d52-574094f66218.jpg)
-
 # Some Shots Of Real-time Database (Firebase)
 
 <img width="2262" alt="firebase" src="https://user-images.githubusercontent.com/118046088/208126830-47247fc2-d061-4a7a-baff-7a16f65579ef.png">
+
+# Layered Architecture
 
 <img width="1403" alt="Screen Shot 1401-09-22 at 00 31 51" src="https://user-images.githubusercontent.com/118046088/207154017-f6a72e73-4bfe-4650-8f18-7d777a04bfd4.png">
 

@@ -11,6 +11,7 @@ A music social network (real-time) app for streaming musics and sharing musical 
 
 <img width="1403" alt="Screen Shot 1401-09-22 at 00 31 51" src="https://user-images.githubusercontent.com/118046088/207154017-f6a72e73-4bfe-4650-8f18-7d777a04bfd4.png">
 
+# Class Diagram (In App & Database) 1
 
 https://user-images.githubusercontent.com/118046088/207150817-997732aa-22d0-4adf-9d01-6bfa4d9cdb40.mov
 
@@ -19,16 +20,19 @@ https://user-images.githubusercontent.com/118046088/207150817-997732aa-22d0-4adf
 
 [Sequence Diagrams.zip](https://github.com/hesamsaeedi55/ios-Music-Streaming-App/files/10211984/Sequence.Diagrams.zip)
 
+# Class Diagram (In App & Database) 2
 
 
 https://user-images.githubusercontent.com/118046088/207150946-1dd13d7e-72aa-4e8c-bdfd-9c8aa131c8a5.mov
 
 
 
+# Class Diagram (In App & Database) 3 
 
 
 https://user-images.githubusercontent.com/118046088/207151652-2dc1aad8-e23d-466d-95c4-c5a85af55eb6.mov
 
+# Class Diagram (In App & Database) 4
 
 
 https://user-images.githubusercontent.com/118046088/207152310-417fcab8-ea6b-4393-b2f2-0b319a802ddd.mp4

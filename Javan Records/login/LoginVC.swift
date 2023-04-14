@@ -262,7 +262,7 @@ class LoginVC: UIViewController {
         
              logInButton.backgroundColor = UIColor(red: 203/255, green: 109/255, blue: 122/255, alpha: 1)
         
-        print("true")
+        print("tapped true")
     }
 
     

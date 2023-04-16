@@ -202,6 +202,16 @@ class LoginVC: UIViewController {
         stackView.anchor(top: view.topAnchor, left: view.leftAnchor, bottom: nil, right: view.rightAnchor, paddingtop: 150, paddingleft: 95, paddingbottom: 0, paddingright: 95, width: 0, height: 110)
         
     }
+
+func configureViewControllerSecond() {
+        let stackView = UIStackView(arrangedSubviews: [emailTextField,passwordTextField,logInButton])
+        stackView.axis = .vertical
+        stackView.spacing = 12
+        stackView.distribution = .fillEqually
+        view.addSubview(stackView)
+        stackView.anchor(top: view.topAnchor, left: view.leftAnchor, bottom: nil, right: view.rightAnchor, paddingtop: 150, paddingleft: 95, paddingbottom: 0, paddingright: 95, width: 0, height: 110)
+        
+    }
     
     
     

@@ -6,6 +6,8 @@
 //  Copyright © 2019 Hesamoddin. All rights reserved.
 //
 
+// customizing each cell 
+
 import UIKit
 
 class genreCell: UICollectionViewCell {
